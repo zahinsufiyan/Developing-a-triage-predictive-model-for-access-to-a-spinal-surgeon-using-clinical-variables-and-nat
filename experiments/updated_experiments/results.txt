@@ -1,0 +1,549 @@
+bow lr 1 False
+AVERAGED RESULTS
+Accuracy -> 0.7195
+F1-Score -> 0.2303
+Precision -> 0.2255
+Recall -> 0.2422
+Specificity -> 0.8224
+Sensitivity -> 0.2422
+
+bow lr 1 True
+AVERAGED RESULTS
+Accuracy -> 0.7209
+F1-Score -> 0.2416
+Precision -> 0.2325
+Recall -> 0.2565
+Specificity -> 0.8206
+Sensitivity -> 0.2565
+
+bow lr 2 False
+AVERAGED RESULTS
+Accuracy -> 0.7523
+F1-Score -> 0.2076
+Precision -> 0.2368
+Recall -> 0.1864
+Specificity -> 0.8729
+Sensitivity -> 0.1864
+
+bow lr 2 True
+AVERAGED RESULTS
+Accuracy -> 0.7471
+F1-Score -> 0.1902
+Precision -> 0.2171
+Recall -> 0.1701
+Specificity -> 0.8697
+Sensitivity -> 0.1701
+
+bow svm 1 False
+AVERAGED RESULTS
+Accuracy -> 0.7051
+F1-Score -> 0.1971
+Precision -> 0.1894
+Recall -> 0.2058
+Specificity -> 0.8108
+Sensitivity -> 0.2058
+
+bow svm 1 True
+AVERAGED RESULTS
+Accuracy -> 0.6986
+F1-Score -> 0.2290
+Precision -> 0.2101
+Recall -> 0.2545
+Specificity -> 0.7934
+Sensitivity -> 0.2545
+
+bow svm 2 False
+AVERAGED RESULTS
+Accuracy -> 0.7470
+F1-Score -> 0.2034
+Precision -> 0.2313
+Recall -> 0.1825
+Specificity -> 0.8667
+Sensitivity -> 0.1825
+
+bow svm 2 True
+AVERAGED RESULTS
+Accuracy -> 0.7327
+F1-Score -> 0.1801
+Precision -> 0.1953
+Recall -> 0.1701
+Specificity -> 0.8521
+Sensitivity -> 0.1701
+
+bow mnb 1 False
+AVERAGED RESULTS
+Accuracy -> 0.7078
+F1-Score -> 0.2072
+Precision -> 0.1979
+Recall -> 0.2227
+Specificity -> 0.8124
+Sensitivity -> 0.2227
+
+bow mnb 1 True
+AVERAGED RESULTS
+Accuracy -> 0.4692
+F1-Score -> 0.2908
+Precision -> 0.1908
+Recall -> 0.6162
+Specificity -> 0.4372
+Sensitivity -> 0.6162
+
+bow mnb 2 False
+AVERAGED RESULTS
+Accuracy -> 0.7432
+F1-Score -> 0.2111
+Precision -> 0.2329
+Recall -> 0.1994
+Specificity -> 0.8602
+Sensitivity -> 0.1994
+
+bow mnb 2 True
+AVERAGED RESULTS
+Accuracy -> 0.7183
+F1-Score -> 0.2568
+Precision -> 0.2418
+Recall -> 0.2812
+Specificity -> 0.8106
+Sensitivity -> 0.2812
+
+bow lr+svm 1 False
+AVERAGED RESULTS
+Accuracy -> 0.7365
+F1-Score -> 0.1986
+Precision -> 0.2175
+Recall -> 0.1844
+Specificity -> 0.8539
+Sensitivity -> 0.1844
+
+bow lr+svm 1 True
+AVERAGED RESULTS
+Accuracy -> 0.7405
+F1-Score -> 0.1998
+Precision -> 0.2215
+Recall -> 0.1864
+Specificity -> 0.8585
+Sensitivity -> 0.1864
+
+bow lr+svm 2 False
+AVERAGED RESULTS
+Accuracy -> 0.7667
+F1-Score -> 0.1889
+Precision -> 0.2461
+Recall -> 0.1539
+Specificity -> 0.8968
+Sensitivity -> 0.1539
+
+bow lr+svm 2 True
+AVERAGED RESULTS
+Accuracy -> 0.7680
+F1-Score -> 0.1739
+Precision -> 0.2322
+Recall -> 0.1396
+Specificity -> 0.9015
+Sensitivity -> 0.1396
+
+bow lr+mnb 1 False
+AVERAGED RESULTS
+Accuracy -> 0.8087
+F1-Score -> 0.1496
+Precision -> 0.3476
+Recall -> 0.0968
+Specificity -> 0.9602
+Sensitivity -> 0.0968
+
+bow lr+mnb 1 True
+AVERAGED RESULTS
+Accuracy -> 0.7274
+F1-Score -> 0.1943
+Precision -> 0.2049
+Recall -> 0.1883
+Specificity -> 0.8429
+Sensitivity -> 0.1883
+
+bow lr+mnb 2 False
+AVERAGED RESULTS
+Accuracy -> 0.8152
+F1-Score -> 0.1115
+Precision -> 0.3800
+Recall -> 0.0662
+Specificity -> 0.9744
+Sensitivity -> 0.0662
+
+bow lr+mnb 2 True
+AVERAGED RESULTS
+Accuracy -> 0.7785
+F1-Score -> 0.1208
+Precision -> 0.1976
+Recall -> 0.0877
+Specificity -> 0.9252
+Sensitivity -> 0.0877
+
+bow mnb+svm 1 False
+AVERAGED RESULTS
+Accuracy -> 0.8048
+F1-Score -> 0.1256
+Precision -> 0.2969
+Recall -> 0.0805
+Specificity -> 0.9586
+Sensitivity -> 0.0805
+
+bow mnb+svm 1 True
+AVERAGED RESULTS
+Accuracy -> 0.7209
+F1-Score -> 0.1795
+Precision -> 0.1888
+Recall -> 0.1740
+Specificity -> 0.8379
+Sensitivity -> 0.1740
+
+bow mnb+svm 2 False
+AVERAGED RESULTS
+Accuracy -> 0.8139
+F1-Score -> 0.1211
+Precision -> 0.3467
+Recall -> 0.0734
+Specificity -> 0.9714
+Sensitivity -> 0.0734
+
+bow mnb+svm 2 True
+AVERAGED RESULTS
+Accuracy -> 0.7785
+F1-Score -> 0.0918
+Precision -> 0.1600
+Recall -> 0.0662
+Specificity -> 0.9301
+Sensitivity -> 0.0662
+
+tfidf lr 1 False
+AVERAGED RESULTS
+Accuracy -> 0.6920
+F1-Score -> 0.2963
+Precision -> 0.2538
+Recall -> 0.3747
+Specificity -> 0.7607
+Sensitivity -> 0.3747
+
+tfidf lr 1 True
+AVERAGED RESULTS
+Accuracy -> 0.6973
+F1-Score -> 0.2707
+Precision -> 0.2350
+Recall -> 0.3266
+Specificity -> 0.7773
+Sensitivity -> 0.3266
+
+tfidf lr 2 False
+AVERAGED RESULTS
+Accuracy -> 0.7287
+F1-Score -> 0.2476
+Precision -> 0.2439
+Recall -> 0.2636
+Specificity -> 0.8286
+Sensitivity -> 0.2636
+
+tfidf lr 2 True
+AVERAGED RESULTS
+Accuracy -> 0.7444
+F1-Score -> 0.2483
+Precision -> 0.2653
+Recall -> 0.2403
+Specificity -> 0.8523
+Sensitivity -> 0.2403
+
+tfidf svm 1 False
+AVERAGED RESULTS
+Accuracy -> 0.7589
+F1-Score -> 0.2016
+Precision -> 0.2400
+Recall -> 0.1740
+Specificity -> 0.8838
+Sensitivity -> 0.1740
+
+tfidf svm 1 True
+AVERAGED RESULTS
+Accuracy -> 0.7602
+F1-Score -> 0.2365
+Precision -> 0.2656
+Recall -> 0.2149
+Specificity -> 0.8759
+Sensitivity -> 0.2149
+
+tfidf svm 2 False
+AVERAGED RESULTS
+Accuracy -> 0.7838
+F1-Score -> 0.1714
+Precision -> 0.2664
+Recall -> 0.1273
+Specificity -> 0.9237
+Sensitivity -> 0.1273
+
+tfidf svm 2 True
+AVERAGED RESULTS
+Accuracy -> 0.7838
+F1-Score -> 0.1258
+Precision -> 0.2149
+Recall -> 0.0896
+Specificity -> 0.9316
+Sensitivity -> 0.0896
+
+tfidf mnb 1 False
+AVERAGED RESULTS
+Accuracy -> 0.8244
+F1-Score -> 0.0000
+Precision -> 0.0000
+Recall -> 0.0000
+Specificity -> 1.0000
+Sensitivity -> 0.0000
+
+tfidf mnb 1 True
+AVERAGED RESULTS
+Accuracy -> 0.8008
+F1-Score -> 0.1587
+Precision -> 0.3932
+Recall -> 0.1058
+Specificity -> 0.9490
+Sensitivity -> 0.1058
+
+tfidf mnb 2 False
+AVERAGED RESULTS
+Accuracy -> 0.8244
+F1-Score -> 0.0000
+Precision -> 0.0000
+Recall -> 0.0000
+Specificity -> 1.0000
+Sensitivity -> 0.0000
+
+tfidf mnb 2 True
+AVERAGED RESULTS
+Accuracy -> 0.8074
+F1-Score -> 0.0695
+Precision -> 0.2533
+Recall -> 0.0416
+Specificity -> 0.9713
+Sensitivity -> 0.0416
+
+tfidf lr+svm 1 False
+AVERAGED RESULTS
+Accuracy -> 0.7720
+F1-Score -> 0.1724
+Precision -> 0.2370
+Recall -> 0.1364
+Specificity -> 0.9077
+Sensitivity -> 0.1364
+
+tfidf lr+svm 1 True
+AVERAGED RESULTS
+Accuracy -> 0.7759
+F1-Score -> 0.1784
+Precision -> 0.2458
+Recall -> 0.1416
+Specificity -> 0.9108
+Sensitivity -> 0.1416
+
+tfidf lr+svm 2 False
+AVERAGED RESULTS
+Accuracy -> 0.7916
+F1-Score -> 0.1507
+Precision -> 0.2714
+Recall -> 0.1058
+Specificity -> 0.9380
+Sensitivity -> 0.1058
+
+tfidf lr+svm 2 True
+AVERAGED RESULTS
+Accuracy -> 0.7969
+F1-Score -> 0.0959
+Precision -> 0.2512
+Recall -> 0.0610
+Specificity -> 0.9538
+Sensitivity -> 0.0610
+
+tfidf lr+mnb 1 False
+AVERAGED RESULTS
+Accuracy -> 0.8244
+F1-Score -> 0.0000
+Precision -> 0.0000
+Recall -> 0.0000
+Specificity -> 1.0000
+Sensitivity -> 0.0000
+
+tfidf lr+mnb 1 True
+AVERAGED RESULTS
+Accuracy -> 0.8008
+F1-Score -> 0.1587
+Precision -> 0.3932
+Recall -> 0.1058
+Specificity -> 0.9490
+Sensitivity -> 0.1058
+
+tfidf lr+mnb 2 False
+AVERAGED RESULTS
+Accuracy -> 0.8244
+F1-Score -> 0.0000
+Precision -> 0.0000
+Recall -> 0.0000
+Specificity -> 1.0000
+Sensitivity -> 0.0000
+
+tfidf lr+mnb 2 True
+AVERAGED RESULTS
+Accuracy -> 0.8074
+F1-Score -> 0.0695
+Precision -> 0.2533
+Recall -> 0.0416
+Specificity -> 0.9713
+Sensitivity -> 0.0416
+
+tfidf mnb+svm 1 False
+AVERAGED RESULTS
+Accuracy -> 0.8244
+F1-Score -> 0.0000
+Precision -> 0.0000
+Recall -> 0.0000
+Specificity -> 1.0000
+Sensitivity -> 0.0000
+
+tfidf mnb+svm 1 True
+AVERAGED RESULTS
+Accuracy -> 0.8152
+F1-Score -> 0.1026
+Precision -> 0.4222
+Recall -> 0.0591
+Specificity -> 0.9761
+Sensitivity -> 0.0591
+
+tfidf mnb+svm 2 False
+AVERAGED RESULTS
+Accuracy -> 0.8244
+F1-Score -> 0.0000
+Precision -> 0.0000
+Recall -> 0.0000
+Specificity -> 1.0000
+Sensitivity -> 0.0000
+
+tfidf mnb+svm 2 True
+AVERAGED RESULTS
+Accuracy -> 0.8152
+F1-Score -> 0.0300
+Precision -> 0.2000
+Recall -> 0.0162
+Specificity -> 0.9856
+Sensitivity -> 0.0162
+
+word2vec lr 1 False
+AVERAGED RESULTS
+Accuracy -> 0.5740
+F1-Score -> 0.3074
+Precision -> 0.2162
+Recall -> 0.5416
+Specificity -> 0.5823
+Sensitivity -> 0.5416
+
+word2vec lr 1 True
+AVERAGED RESULTS
+Accuracy -> 0.5938
+F1-Score -> 0.3081
+Precision -> 0.2199
+Recall -> 0.5182
+Specificity -> 0.6104
+Sensitivity -> 0.5182
+
+word2vec svm 1 False
+AVERAGED RESULTS
+Accuracy -> 0.5465
+F1-Score -> 0.3106
+Precision -> 0.2121
+Recall -> 0.5864
+Specificity -> 0.5391
+Sensitivity -> 0.5864
+
+word2vec svm 1 True
+AVERAGED RESULTS
+Accuracy -> 0.6055
+F1-Score -> 0.2805
+Precision -> 0.2064
+Recall -> 0.4390
+Specificity -> 0.6406
+Sensitivity -> 0.4390
+
+word2vec gnb 1 False
+AVERAGED RESULTS
+Accuracy -> 0.6134
+F1-Score -> 0.2327
+Precision -> 0.1773
+Recall -> 0.3708
+Specificity -> 0.6641
+Sensitivity -> 0.3708
+
+word2vec gnb 1 True
+AVERAGED RESULTS
+Accuracy -> 0.3067
+F1-Score -> 0.2878
+Precision -> 0.1758
+Recall -> 0.7994
+Specificity -> 0.2020
+Sensitivity -> 0.7994
+
+word2vec lr+svm 1 False
+AVERAGED RESULTS
+Accuracy -> 0.5977
+F1-Score -> 0.3042
+Precision -> 0.2190
+Recall -> 0.5058
+Specificity -> 0.6186
+Sensitivity -> 0.5058
+
+word2vec lr+svm 1 True
+AVERAGED RESULTS
+Accuracy -> 0.6305
+F1-Score -> 0.2773
+Precision -> 0.2110
+Recall -> 0.4052
+Specificity -> 0.6786
+Sensitivity -> 0.4052
+
+word2vec lr+gnb 1 False
+AVERAGED RESULTS
+Accuracy -> 0.6829
+F1-Score -> 0.2368
+Precision -> 0.2003
+Recall -> 0.3026
+Specificity -> 0.7629
+Sensitivity -> 0.3026
+
+word2vec lr+gnb 1 True
+AVERAGED RESULTS
+Accuracy -> 0.6056
+F1-Score -> 0.3114
+Precision -> 0.2245
+Recall -> 0.5110
+Specificity -> 0.6262
+Sensitivity -> 0.5110
+
+word2vec gnb+svm 1 False
+AVERAGED RESULTS
+Accuracy -> 0.6855
+F1-Score -> 0.2418
+Precision -> 0.2026
+Recall -> 0.3097
+Specificity -> 0.7644
+Sensitivity -> 0.3097
+
+word2vec gnb+svm 1 True
+AVERAGED RESULTS
+Accuracy -> 0.6147
+F1-Score -> 0.2895
+Precision -> 0.2143
+Recall -> 0.4481
+Specificity -> 0.6500
+Sensitivity -> 0.4481
+
+Best f1 score: ['word2vec', 'lr+gnb', 1, True]
+word2vec lr+gnb 1 True
+AVERAGED RESULTS
+Accuracy -> 0.6056
+F1-Score -> 0.3114
+Precision -> 0.2245
+Recall -> 0.5110
+Specificity -> 0.6262
+Sensitivity -> 0.5110
